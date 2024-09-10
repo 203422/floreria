@@ -1,4 +1,4 @@
-# API de Floristería
+# API de floreria
 
 Esta API REST gestiona el catálogo de una floreria, permite consultar las flores disponibles y hacer pedidos. Desarrollada con **Node.js**, **Express** y **MySQL**.
 
